@@ -1,4 +1,4 @@
-# Excel_Project-Data-Analytics
+# Excel Data Analytics Projects
 My first project demonstrating my excel data analysis skills. All the datasets were used from the course:[Excel for Data Analytics - Luke Barousse](https://youtu.be/pCJ15nGFgVg?si=FwwmK6DzVbqJ1eYE) 
 
 ## Project 1 - Salary Dashboard  
